@@ -1,0 +1,3 @@
+name: joserra
+age:48
+favorite color: yelow
